@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MrMohit0
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @MrMohit 
+- 👀 I’m interested in Doing new Things
+- 🌱 I’m currently learning Data Analyst
+- 💞️ I’m looking to collaborate on Data Analyst Projcts
+- 📫 How to reach me i also don't know
 
 <!---
 MrMohit0/MrMohit0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
